@@ -63,7 +63,7 @@ const RTMP = () => {
       videoFramerate: 30,
       backgroundColor: 0x000000,
       watermark: {
-        url: '',
+        url: 'this is watermark',
         x: 10,
         y: 10,
         width: 200,
